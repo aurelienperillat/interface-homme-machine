@@ -1,0 +1,106 @@
+#progress_front{
+	background-color: #8585ad; 
+	height:15px;
+}
+
+#progress_back{
+	background-color: #52527a; 
+	height:15px;
+}
+
+#progress_main-menu{
+	background-color: #52527a;
+}
+
+#sub-menu_tab{
+	background-color:white;
+}
+
+#sub-menu{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#title-tab{
+	padding-top: 20px;
+}
+
+#thead{
+	padding-top: 10px;
+	background-color: #7575a3;
+	color: white;
+}
+
+th{
+	text-align: center;
+	font-size: 70%;
+	height: 40px;
+}
+
+td{
+	text-align: center;
+	font-size: 70%;
+	color: #7575a3;
+	height: 40px;
+}
+
+.progress-small{
+	height: 10px;
+	background-color: #d0d0e1;
+}
+
+.subMenu-selected{
+	padding-top: 5px;
+	color: #7575a3;
+	text-align: center;
+	font-size: 70%;
+}
+
+.subMenu-default{
+	padding-top: 5px;
+	color: #d0d0e1;
+	text-align: center;
+	font-size: 70%;
+}
+
+.line{
+	background-color: #d0d0e1;
+	width: 100%;
+	height: 2px;
+}
+
+.pagination li a {
+    background: white;
+    color: #7575a3;
+	border-radius: 50%;
+	margin: 0 6px;
+}
+
+.color-primary{
+	color: white;
+	background-color: #7575a3;
+}
+
+.color-gray{
+	color: white;
+	background-color: #bbbbbb;
+}
+
+.menuMain-selected{
+	background-color: white;
+	color: #7575a3;
+	text-align: center;
+	line-height: 40px;
+    white-space: nowrap;
+	font-size: 70%;
+	height: 40px;
+}
+
+.menuMain-default{
+	color: white;
+	text-align: center;
+	line-height: 40px;
+    white-space: nowrap;
+	font-size: 70%;
+	height:40px;
+}
